@@ -6,3 +6,14 @@ challenge lock.
 * Make: Kwikset
 * Model: KIK 5 pin
 
+# Core Modifications
+The core has symmetrical undercutting to chambers 1 and 3.
+* Core Left
+  * ![Core Left](core_left.jpg)
+* Core Right
+  * ![Core Right](core_right.jpg)
+
+# Key Pin Modifications
+Only the 2nd key pin has modifications; a single serration
+* Key Pin #2
+  * ![Key Pin #2](key_pin_2.jpg)
