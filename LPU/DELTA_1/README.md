@@ -2,6 +2,12 @@
 This page documents my first challenge lock created to fulfill the LPU blue belt requirements. I've named this lock "Delta 1". Below you will find details about this
 challenge lock.
 
+"Delta 1" has a teal triangle engraved (poorly) into the key and the bible. This was my first attempt at engraving with a Dremel, and it wasn't awesome. Nevertheless, it adds a visual element to my creation.
+
+* Lock and Key
+  * ![Lock and Key](lock_and_key.jpg)
+* [Video of lock and key working](https://photos.app.goo.gl/qTvrD4BcjChXPYa1A)
+
 # Note
 The date/times on the photos should be ignored as the time was not set correctly on the digital micrscope used to capture the photos. This challenge lock was created between October 23rd-24th, 2023.
 
