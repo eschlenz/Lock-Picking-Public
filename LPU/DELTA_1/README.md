@@ -9,6 +9,13 @@ The date/times on the photos should be ignored as the time was not set correctly
 * Make: Kwikset
 * Model: KIK 5 pin
 
+# Tools Used
+* Digital Microscope (photos)
+* Dremel
+  * Engraving Bit
+* Hacksaw Blade
+* 1000 Grit Sandpaper
+
 # Core Modifications
 The core has symmetrical undercutting to chambers 1 and 3.
 * Core Left
