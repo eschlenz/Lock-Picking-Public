@@ -16,6 +16,14 @@ The date/times on the photos should be ignored as the time was not set correctly
 * Hacksaw Blade
 * 1000 Grit Sandpaper
 
+# LPU Challenge Lock Requirements
+While the [requirements](https://www.reddit.com/r/lockpicking/wiki/index/#wiki_challenge_lock_requirements) only dictate 6 modifications, I've included more than that:
+* All 5 driver pins modified.
+* One key pin modified.
+* 2 chambers undercut.
+* One bible chamber threaded.
+* Custom engraved logo on key and bible.
+
 # Core Modifications
 The core has symmetrical undercutting to chambers 1 and 3.
 * Core Left
