@@ -4,4 +4,5 @@ This is home to my documentation related to [LPU (Lock Pickers United)](https://
 # Belt Request Videos
 * [Green Belt](https://youtu.be/23MHaHG4b7k?si=L5R5kqTtuqIdboLt)
 
-# [Challenge Lock](Challenge Lock/README.md)
+# Challenge Lock
+* My first challenge lock creation: ["Delta #1"](Challenge Locks/DELTA_1.md)
