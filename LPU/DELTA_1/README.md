@@ -2,6 +2,9 @@
 This page documents my first challenge lock created to fulfill the LPU blue belt requirements. I've named this lock "Delta 1". Below you will find details about this
 challenge lock.
 
+# Note
+The date/times on the photos should be ignored as the time was not set correctly on the digital micrscope used to capture the photos. This challenge lock was created between October 23rd-24th, 2023.
+
 # Original Lock
 * Make: Kwikset
 * Model: KIK 5 pin
