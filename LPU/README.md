@@ -3,6 +3,8 @@ This is home to my documentation related to [LPU (Lock Pickers United)](https://
 
 # Belt Request Videos
 * [Green Belt - Medeco Duracam](https://youtu.be/23MHaHG4b7k?si=L5R5kqTtuqIdboLt)
+  * Awarded Green Belt - 10/22/2023
+  * ![Green Belt Approved](green_belt_approval.png)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
