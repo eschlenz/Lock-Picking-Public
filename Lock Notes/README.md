@@ -8,7 +8,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 
 # Brava Oval
-* Heavy bar TOK, .018 Peterson Gem 
+* Heavy bar TOK, .018 Peterson Gem
+* Medium tension
 * Unsure of model
 * Appears to have flat wafer pins
 * Multiple notches on each pin
@@ -35,11 +36,11 @@ This is home to my personal notes on locks I own and/or have picked.
 * Tapered pin gives counter rotation before being set
 
 # Sargent Assa Abloy Mortise
-* .050 TOK, .018 Peterson Gem 
+* .050 TOK, .018 Peterson Gem
+* Apply enough tension to feel the bound pin sliding up with resistance
 * 6 pins all standard
 * Super good tolerances
 * More success picking CCW than CW
-* Apply enough tension to feel the bound pin sliding up with resistance
 * Sometimes feels like a pin is set, but might not be
 
   
