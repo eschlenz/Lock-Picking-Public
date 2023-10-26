@@ -9,6 +9,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Master Lock Magnum](#master-lock-magnum)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
+* [Packlock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 
@@ -72,6 +73,14 @@ This is home to my personal notes on locks I own and/or have picked.
 * One tee pin and one tapered spool found in my lock
 * Tee pin gives to clicks before set
 * Tapered pin gives counter rotation before being set
+
+# Packlock 100A
+* .050 TOK if deep enough, .018 Peterson H4
+* Light tension
+* 6 pins
+* Mix of standard, serrated, spooled
+* Goes into a little false set
+* Similar to American 1100
 
 # Packlock 200A
 * .050 TOK if deep enough, otherwise thin z bar (BOK) style, .018 Peterson H4 & H5 (for deep pins)
