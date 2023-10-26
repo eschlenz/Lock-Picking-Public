@@ -7,6 +7,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
+* [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 
 # Brava Oval
@@ -33,7 +34,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
-* Similar to American 100
+* Similar to American 1100
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
@@ -54,6 +55,14 @@ This is home to my personal notes on locks I own and/or have picked.
 * One tee pin and one tapered spool found in my lock
 * Tee pin gives to clicks before set
 * Tapered pin gives counter rotation before being set
+
+# Packlock 200A
+* .050 TOK if deep enough, otherwise thin z bar (BOK) style, Peterson H4 & H5 (for deep pins)
+* Light tension
+* 6 pins
+* Mix of standard, serrated, spooled
+* Goes into a little false set
+* Similar to American 1100
 
 # Sargent Assa Abloy Mortise
 * .050 TOK, .018 Peterson Gem
