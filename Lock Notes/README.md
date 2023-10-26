@@ -24,6 +24,15 @@ This is home to my personal notes on locks I own and/or have picked.
 * Goes into a deep false set
 * On mine, the first pin kept falling and it was a very high lift
 * Seems easy to overset pins
+* Similar to American 1100
+
+# Mako 427
+* Multipick SP-17 TOK, Peterson H4
+* Light tension
+* 6 pins
+* Mix of standard, serrated, spooled
+* Goes into a little false set
+* Similar to American 100
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
