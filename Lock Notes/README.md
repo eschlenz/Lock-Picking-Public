@@ -5,6 +5,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Brava Oval](#brava-oval)
 * [Federal 90A](#federal-90a)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
+* [Master Lock Excell](#master-lock-excell)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
@@ -35,6 +36,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * Mix of standard, serrated, spooled
 * Goes into a little false set
 * Similar to American 1100
+
+# Master Lock Excell
+* .050 TOK, .08 Peterson H4
+* Heavy tension
+* 5 pins
+* All standard
+* Very easy to pick
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
