@@ -2,12 +2,21 @@
 This is home to my personal notes on locks I own and/or have picked.
 
 # Index
+* [Brava Oval](#brava-oval)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 
+# Brava Oval
+* Heavy bar TOK, .018 Peterson Gem 
+* Unsure of model
+* Appears to have flat wafer pins
+* Multiple notches on each pin
+* Just keep lifting the binding pin a notch until you get the open
+
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
+* Z bar, Sparrows smooth flag
 * 5 pins, no drivers
 * Pins must be rotated and lifted to correct position
 * Can rotate pins using a flag positioned on the outside (either side) of each pin, and pushing forward/backward
@@ -16,6 +25,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * The core will rotate into a progressively deeper false set as you correctly set the pins
 
 # Medeco M3 Mortise
+* .050 TOK, Sparrows smooth flag
 * CCW tensioning allows pin rotation to be determined first, thus engaging the sidebar
 * Correct rotation for all pins can be determined by push the check pin. If correct, the core will rotate slightly
 * Pin rotation can also be checked individually by seeing if the pin is "clicky" as you slide under it (indicating correct rotation)
@@ -25,6 +35,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Tapered pin gives counter rotation before being set
 
 # Sargent Assa Abloy Mortise
+* .050 TOK, .018 Peterson Gem 
 * 6 pins all standard
 * Super good tolerances
 * More success picking CCW than CW
