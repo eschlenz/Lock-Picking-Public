@@ -4,6 +4,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Index
 * [Brava Oval](#brava-oval)
 * [Federal 90A](#federal-90a)
+* [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
