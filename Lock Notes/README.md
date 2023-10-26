@@ -7,6 +7,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock Excell](#master-lock-excell)
 * [Master Lock Magnum](#master-lock-magnum)
+* [Master Lock No 5](#master-lock-no-5)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Packlock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
@@ -53,6 +54,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * Spools and standards
 * Gross lock, sloppy tolerances, loose core
 * Heavy tension is the only thing that makes it tricky
+
+# Master Lock No 5
+* .040 TOK, .018 Peterson Gem
+* Heavy tension
+* 5 pins
+* All standard pins
+* Very easy
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
