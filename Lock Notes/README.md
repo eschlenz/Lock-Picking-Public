@@ -19,7 +19,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Just keep lifting the binding pin a notch until you get the open
 
 # Federal 90A
-* .050 TOK, Peterson H4
+* .050 TOK, .018 Peterson H4
 * Light tension (enough to get past core spring tension though)
 * 6 pins
 * Mix of standard, serrated, spooled
@@ -29,7 +29,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Similar to American 1100
 
 # Mako 427
-* Multipick SP-17 TOK, Peterson H4
+* Multipick SP-17 TOK, .08 Peterson H4
 * Light tension
 * 6 pins
 * Mix of standard, serrated, spooled
@@ -57,7 +57,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Tapered pin gives counter rotation before being set
 
 # Packlock 200A
-* .050 TOK if deep enough, otherwise thin z bar (BOK) style, Peterson H4 & H5 (for deep pins)
+* .050 TOK if deep enough, otherwise thin z bar (BOK) style, .018 Peterson H4 & H5 (for deep pins)
 * Light tension
 * 6 pins
 * Mix of standard, serrated, spooled
