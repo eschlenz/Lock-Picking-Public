@@ -6,6 +6,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Federal 90A](#federal-90a)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock Excell](#master-lock-excell)
+* [Master Lock Magnum](#master-lock-magnum)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
@@ -30,7 +31,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Similar to American 1100
 
 # Mako 427
-* Multipick SP-17 TOK, .08 Peterson H4
+* Multipick SP-17 TOK, .018 Peterson H4
 * Light tension
 * 6 pins
 * Mix of standard, serrated, spooled
@@ -38,11 +39,19 @@ This is home to my personal notes on locks I own and/or have picked.
 * Similar to American 1100
 
 # Master Lock Excell
-* .050 TOK, .08 Peterson H4
+* .050 TOK, .018 Peterson H4
 * Heavy tension
 * 5 pins
 * All standard
 * Very easy to pick
+
+# Master Lock Magnum
+* .040 TOK, .025 Peterson Gem
+* Heavy tension
+* 5 pins
+* Spools and standards
+* Gross lock, sloppy tolerances, loose core
+* Heavy tension is the only thing that makes it tricky
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
