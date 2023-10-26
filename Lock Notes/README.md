@@ -3,6 +3,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Index
 * [Brava Oval](#brava-oval)
+* [Federal 90A](#federal-90a)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
@@ -14,6 +15,15 @@ This is home to my personal notes on locks I own and/or have picked.
 * Appears to have flat wafer pins
 * Multiple notches on each pin
 * Just keep lifting the binding pin a notch until you get the open
+
+# Federal 90A
+* .050 TOK, Peterson H4
+* Light tension (enough to get past core spring tension though)
+* 6 pins
+* Mix of standard, serrated, spooled
+* Goes into a deep false set
+* On mine, the first pin kept falling and it was a very high lift
+* Seems easy to overset pins
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
