@@ -4,6 +4,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Index
 * [Brava Oval](#brava-oval)
 * [Federal 90A](#federal-90a)
+* [Hurd USA](#hurd-usa)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock Excell](#master-lock-excell)
 * [Master Lock Magnum](#master-lock-magnum)
@@ -31,6 +32,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * On mine, the first pin kept falling and it was a very high lift
 * Seems easy to overset pins
 * Similar to American 1100
+
+# Hurd USA
+* .040 TOK, .025 Peterson Gem
+* Heavy tension
+* 5 pins
+* All standard pins
+* Easy
 
 # Mako 427
 * Multipick SP-17 TOK, .018 Peterson H4
