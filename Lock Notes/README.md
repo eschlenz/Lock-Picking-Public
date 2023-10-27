@@ -3,6 +3,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Index
 * [Ace A527](#ace-a527)
+* [American Lock 700](#american-lock-700)
 * [Brava Oval](#brava-oval)
 * [Federal 90A](#federal-90a)
 * [Hurd USA](#hurd-usa)
@@ -30,6 +31,14 @@ This is home to my personal notes on locks I own and/or have picked.
 * Standard and serrated
 * Pretty easy
 
+# American Lock 700
+* TOK .050, .018 Peterson H4/H5
+* Light tension
+* 5 pins
+* Standard and serrated?
+  * I didn't notice any security pins on mine
+* Easy
+
 # Brava Oval
 * Heavy bar TOK, .018 Peterson Gem
 * Medium tension
@@ -46,7 +55,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Goes into a deep false set
 * On mine, the first pin kept falling and it was a very high lift
 * Seems easy to overset pins
-* Similar to American 1100
+* Similar to American Lock 1100
 
 # Hurd USA
 * .040 TOK, .025 Peterson Gem
@@ -61,7 +70,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
-* Similar to American 1100
+* Similar to American Lock 1100
 
 # Master Lock 605DAT
 * .040 TOK, .018 Peterson H1
@@ -140,7 +149,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
-* Similar to American 1100
+* Similar to American Lock 1100
 
 # Packlock 200A
 * .050 TOK if deep enough, otherwise thin z bar (BOK) style, .018 Peterson H4 & H5 (for deep pins)
@@ -148,7 +157,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
-* Similar to American 1100
+* Similar to American Lock 1100
 
 # Sargent Assa Abloy Mortise
 * .050 TOK, .018 Peterson Gem
