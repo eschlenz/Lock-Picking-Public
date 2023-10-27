@@ -2,6 +2,7 @@
 This is home to my personal notes on locks I own and/or have picked.
 
 # Index
+* [Ace A527](#ace-a527)
 * [Brava Oval](#brava-oval)
 * [Federal 90A](#federal-90a)
 * [Hurd USA](#hurd-usa)
@@ -20,6 +21,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
 * [Toledo TBK90R](#toledo-tbk90r)
+
+# Ace A527
+* TOK .050, .018 Peterson H4/H5
+* Light tension
+* 5 pins
+* Standard and serrated
+* Pretty easy
 
 # Brava Oval
 * Heavy bar TOK, .018 Peterson Gem
