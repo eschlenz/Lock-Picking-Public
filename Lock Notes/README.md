@@ -10,6 +10,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Master Lock Excell](#master-lock-excell)
 * [Master Lock Magnum](#master-lock-magnum)
 * [Master Lock No 5](#master-lock-no-5)
+* [Master Lock No 570](#master-lock-no-570)
 * [Master Lock No 930](#master-lock-no-930)
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
@@ -79,6 +80,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * 5 pins
 * All standard pins
 * Very easy
+
+# Master Lock No 570
+* .040 TOK, .018 Peterson Gem
+* Medium tension
+* 5 pins
+* Standard and spools
+* Pretty easy
 
 # Master Lock No 930
 * .040 TOK, .018 Peterson H4
