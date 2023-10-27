@@ -6,6 +6,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Federal 90A](#federal-90a)
 * [Hurd USA](#hurd-usa)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
+* [Master Lock 605DAT](#master-lock-605dat)
 * [Master Lock Excell](#master-lock-excell)
 * [Master Lock Magnum](#master-lock-magnum)
 * [Master Lock No 5](#master-lock-no-5)
@@ -48,6 +49,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * Mix of standard, serrated, spooled
 * Goes into a little false set
 * Similar to American 1100
+
+# Master Lock 605DAT
+* .040 TOK, .018 Peterson H1
+* Light tension
+* 4 pins
+* Standard, spools
+* Very easy to pick
 
 # Master Lock Excell
 * .050 TOK, .018 Peterson H4
