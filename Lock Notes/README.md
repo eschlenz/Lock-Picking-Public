@@ -14,6 +14,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Packlock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
+* [Sealey PI207](#sealey-pi207)
 
 # Brava Oval
 * Heavy bar TOK, .018 Peterson Gem
@@ -91,7 +92,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Tapered pin gives counter rotation before being set
 
 # Packlock 100A
-* .050 TOK if deep enough, .018 Peterson H4
+* .050 TOK if deep enough, .018 Peterson H1
 * Light tension
 * 6 pins
 * Mix of standard, serrated, spooled
@@ -114,4 +115,11 @@ This is home to my personal notes on locks I own and/or have picked.
 * More success picking CCW than CW
 * Sometimes feels like a pin is set, but might not be
 
+# Sealey PI207
+* L wrench BOK, .018 Peterson H1
+* Light tension
+* 5 pins
+* All standard pins
+* Tight/small keyway
+* Easy
   
