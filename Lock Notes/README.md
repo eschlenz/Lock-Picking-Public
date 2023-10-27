@@ -27,6 +27,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Ace A527
 * TOK .050, .018 Peterson H4/H5
 * Light tension
+* Padlock
 * 5 pins
 * Standard and serrated
 * Pretty easy
@@ -34,6 +35,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # American Lock 700
 * TOK .050, .018 Peterson H4/H5
 * Light tension
+* Padlock
 * 5 pins
 * Standard and serrated?
   * I didn't notice any security pins on mine
@@ -42,6 +44,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Brava Oval
 * Heavy bar TOK, .018 Peterson Gem
 * Medium tension
+* Cam lock
 * Unsure of model
 * Appears to have flat wafer pins
 * Multiple notches on each pin
@@ -50,6 +53,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Federal 90A
 * .050 TOK, .018 Peterson H4
 * Light tension (enough to get past core spring tension though)
+* Padlock
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a deep false set
@@ -60,6 +64,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Hurd USA
 * .040 TOK, .025 Peterson Gem
 * Heavy tension
+* Padlock
 * 5 pins
 * All standard pins
 * Easy
@@ -67,6 +72,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Mako 427
 * Multipick SP-17 TOK, .018 Peterson H4
 * Light tension
+* Padlock
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
@@ -75,6 +81,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock 605DAT
 * .040 TOK, .018 Peterson H1
 * Light tension
+* Shutter lock
 * 4 pins
 * Standard, spools
 * Very easy to pick
@@ -82,6 +89,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock Excell
 * .050 TOK, .018 Peterson H4
 * Heavy tension
+* Padlock
 * 5 pins
 * All standard
 * Very easy to pick
@@ -89,6 +97,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock Magnum
 * .040 TOK, .025 Peterson Gem
 * Heavy tension
+* Padlock
 * 5 pins
 * Spools and standards
 * Gross lock, sloppy tolerances, loose core
@@ -97,6 +106,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock No 5
 * .040 TOK, .018 Peterson Gem
 * Heavy tension
+* Padlock
 * 5 pins
 * All standard pins
 * Very easy
@@ -104,6 +114,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock No 570
 * .040 TOK, .018 Peterson Gem
 * Medium tension
+* Padlock
 * 5 pins
 * Standard and spools
 * Pretty easy
@@ -111,6 +122,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock No 6835
 * .040 TOK, .018 Peterson Gem
 * Light tension
+* Padlock
 * 5 pins
 * Standard and spools
 * Very easy
@@ -118,6 +130,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Master Lock No 930
 * .040 TOK, .018 Peterson H4
 * Medium tension
+* Padlock
 * 5 pins
 * All standard pins
   * Also have one that has standard and serrated pins
@@ -126,6 +139,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
 * Z bar, Sparrows smooth flag
+* Cam lock
 * 5 pins, no drivers
 * Pins must be rotated and lifted to correct position
 * Can rotate pins using a flag positioned on the outside (either side) of each pin, and pushing forward/backward
@@ -136,6 +150,8 @@ This is home to my personal notes on locks I own and/or have picked.
 # Medeco M3 Mortise
 * .050 TOK, Sparrows smooth flag
 * CCW tensioning allows pin rotation to be determined first, thus engaging the sidebar
+* Mortise Lock
+* 6 pins
 * Correct rotation for all pins can be determined by push the check pin. If correct, the core will rotate slightly
 * Pin rotation can also be checked individually by seeing if the pin is "clicky" as you slide under it (indicating correct rotation)
 * The last pin that needs to be rotated might not feel clicky even if rotated to the correct position
@@ -146,6 +162,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Packlock 100A
 * .050 TOK if deep enough, .018 Peterson H1
 * Light tension
+* Padlock
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
@@ -154,6 +171,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Packlock 200A
 * .050 TOK if deep enough, otherwise thin z bar (BOK) style, .018 Peterson H4 & H5 (for deep pins)
 * Light tension
+* Padlock
 * 6 pins
 * Mix of standard, serrated, spooled
 * Goes into a little false set
@@ -162,6 +180,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Sargent Assa Abloy Mortise
 * .050 TOK, .018 Peterson Gem
 * Apply enough tension to feel the bound pin sliding up with resistance
+* Mortise lock
 * 6 pins all standard
 * Super good tolerances
 * More success picking CCW than CW
@@ -170,6 +189,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Sealey PI207
 * L wrench BOK, .018 Peterson H1
 * Light tension
+* Shutter lock
 * 5 pins
 * All standard pins
 * Tight/small keyway
@@ -178,6 +198,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Toledo TBK90R
 * .040 TOK, .018 Peterson Gem, H4/H5 for high set pins
 * Medium-light tension
+* Padlock
 * 6 pins
 * Standard and spooled pins
 * Very good feedback
@@ -185,6 +206,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # U.S. General
 * .050 TOK, .018 Peterson H4/H5
 * Medium tension
+* Padlock
 * 5 pins
 * Standard and maybe serrated
 
