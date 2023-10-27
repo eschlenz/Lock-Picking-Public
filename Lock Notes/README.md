@@ -111,6 +111,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Medium tension
 * 5 pins
 * All standard pins
+  * Also have one that has standard and serrated pins
 * Very easy
 
 # Medeco Duracam
