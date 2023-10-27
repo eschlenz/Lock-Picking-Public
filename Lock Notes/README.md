@@ -9,9 +9,10 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Master Lock 605DAT](#master-lock-605dat)
 * [Master Lock Excell](#master-lock-excell)
 * [Master Lock Magnum](#master-lock-magnum)
-* [Master Lock No 5](#master-lock-no-5)
-* [Master Lock No 570](#master-lock-no-570)
-* [Master Lock No 930](#master-lock-no-930)
+* [Master Lock No 5](#master-lock-no-5) ([lockwiki](https://www.lockwiki.com/index.php/Master_Lock_No_5))
+* [Master Lock No 570](#master-lock-no-570) ([lockwiki](https://www.lockwiki.com/index.php/Master_Lock_No_570))
+* [Master Lock No 6835](#master-lock-no-6835)
+* [Master Lock No 930](#master-lock-no-930) ([lockwiki](https://www.lockwiki.com/index.php/Master_Lock_No_930))
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
 * [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Packlock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
@@ -87,6 +88,13 @@ This is home to my personal notes on locks I own and/or have picked.
 * 5 pins
 * Standard and spools
 * Pretty easy
+
+# Master Lock No 6835
+* .040 TOK, .018 Peterson Gem
+* Light tension
+* 5 pins
+* Standard and spools
+* Very easy
 
 # Master Lock No 930
 * .040 TOK, .018 Peterson H4
