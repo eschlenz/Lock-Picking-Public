@@ -21,6 +21,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
 * [Toledo TBK90R](#toledo-tbk90r)
+* [U.S. General](#u.s.-general)
 
 # Ace A527
 * TOK .050, .018 Peterson H4/H5
@@ -170,5 +171,11 @@ This is home to my personal notes on locks I own and/or have picked.
 * 6 pins
 * Standard and spooled pins
 * Very good feedback
+
+# U.S. General
+* .050 TOK, .018 Peterson H4/H5
+* Medium tension
+* 5 pins
+* Standard and maybe serrated
 
   
