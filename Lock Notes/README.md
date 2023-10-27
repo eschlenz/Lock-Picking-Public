@@ -19,6 +19,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
+* [Toledo TBK90R](#toledo-tbk90r)
 
 # Brava Oval
 * Heavy bar TOK, .018 Peterson Gem
@@ -154,4 +155,12 @@ This is home to my personal notes on locks I own and/or have picked.
 * All standard pins
 * Tight/small keyway
 * Easy
+
+# Toledo TBK90R
+* .040 TOK, .018 Peterson Gem, H4/H5 for high set pins
+* Medium-light tension
+* 6 pins
+* Standard and spooled pins
+* Very good feedback
+
   
