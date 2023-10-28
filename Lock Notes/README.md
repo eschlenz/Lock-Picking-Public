@@ -18,221 +18,260 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Master Lock No 6835](#master-lock-no-6835)
 * [Master Lock No 930](#master-lock-no-930) ([lockwiki](https://www.lockwiki.com/index.php/Master_Lock_No_930))
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
-* [Medeco M3 Mortise](#medico-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
-* [Packlock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
-* [Packlock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
+* [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
+* [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
+* [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
 * [Toledo TBK90R](#toledo-tbk90r)
 * [U.S. General](#us-general)
 
 # Ace A527
-* TOK .050, .018 Peterson H4/H5
-* Light tension
-* Padlock
-* 5 pins
-* Standard and serrated
-* Pretty easy
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H4/H5
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Standard and serrated
+* Notes: Pretty easy
 
 # American Lock 700
-* TOK .050, .018 Peterson H4/H5
-* Light tension
-* Padlock
-* 5 pins
-* Standard and serrated?
-  * I didn't notice any security pins on mine
-* Easy
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H4/H5
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Standard and serrated(?)
+* Notes: Easy
 
 # Brava Oval
-* Heavy bar TOK, .018 Peterson Gem
-* Medium tension
-* Cam lock
-* Unsure of model
-* Appears to have flat wafer pins
-* Multiple notches on each pin
-* Just keep lifting the binding pin a notch until you get the open
+* Type: Cam lock
+* Tension wrench: TOK heavy bar
+* Pick(s): .018 Peterson Gem
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Wafer
+* Notes:
+  * Unsure of model
+  * Appears to have flat wafer pins
+  * Multiple notches on each pin
+  * Just keep lifting the binding pin a notch until you get the open
 
 # Federal 90A
-* .050 TOK, .018 Peterson H4
-* Light tension (enough to get past core spring tension though)
-* Padlock
-* 6 pins
-* Mix of standard, serrated, spooled
-* Goes into a deep false set
-* On mine, the first pin kept falling and it was a very high lift
-* Seems easy to overset pins
-* Similar to American Lock 1100
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H4
+* Tension: Light tension (enough to get past core spring tension though)
+* Number of pins: 6
+* Types of pins: Mix of standard, serrated, spooled
+* Notes:
+  * Goes into a deep false set
+  * On mine, the first pin kept falling and it was a very high lift
+  * Seems easy to overset pins
+  * Similar to American Lock 1100
 
-# Federal 90A
-* .050 TOK, .018 Peterson H4/H5
-* Light tension (enough to get past core spring tension though)
-* Padlock
-* 6 pins
-* Standard and spooled
-* Minor false set
-* Seems easy to overset or drop pins
-* Similar to American Lock 1100
-* Great feedback / fun pick
+# First Watch
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H4/H5
+* Tension: Light tension (enough to get past core spring tension though)
+* Number of pins: 6
+* Types of pins: Standard and spooled
+* Notes:
+  * Minor false set
+  * Seems easy to overset or drop pins
+  * Similar to American Lock 1100
+  * Great feedback / fun pick
 
 # Hurd USA
-* .040 TOK, .025 Peterson Gem
-* Heavy tension
-* Padlock
-* 5 pins
-* All standard pins
-* Easy
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .025 Peterson Gem
+* Tension: Heavy tension
+* Number of pins: 5
+* Types of pins: Standard
+* Notes: Easy
 
 # Kwikset Smartkey Gen 2
 * [My picking video](https://www.youtube.com/watch?v=kC1vp0_bt5g)
-* .050 TOK, .018 Peterson Gem
-* Light tension (seriously)
-* Padlock
-* 5 wafer pins / lots of false gatesx
-* Focus on the binding pin and move up one click at a time
-* True gate feels much floppier than the false gates
-* Lightly dragging under the pins can help find the binder, or nudge pins into the true gate if close but not in it yet
-* Tricky lock to pick
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson Gem
+* Tension: Very light tension
+* Number of pins: 5
+* Types of pins: Wafers with false gates
+* Notes:
+  * True gate feels much floppier than the false gates
+  * Lightly dragging under the pins can help find the binder, or nudge pins into the true gate if close but not in it yet
+  * Tricky lock to pick
 
 # Mako 427
-* Multipick SP-17 TOK, .018 Peterson H4
-* Light tension
-* Padlock
-* 6 pins
-* Mix of standard, serrated, spooled
-* Goes into a little false set
-* Similar to American Lock 1100
+* Type: Padlock
+* Tension wrench: TOK Multipick SP-17
+* Pick(s): .018 Peterson H4
+* Tension: Light tension
+* Number of pins: 6
+* Types of pins: Mix of standard, serrated, spooled
+* Notes:
+  * Goes into a little false set
+  * Similar to American Lock 1100
 
 # Master Lock 605DAT
-* .040 TOK, .018 Peterson H1
-* Light tension
-* Shutter lock
-* 4 pins
-* Standard, spools
-* Very easy to pick
+* Type: Shutter
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson H1
+* Tension: Light tension
+* Number of pins: 4
+* Types of pins: Standard and spools
+* Notes: Very easy to pick
 
 # Master Lock Excell
-* .050 TOK, .018 Peterson H4
-* Heavy tension
-* Padlock
-* 5 pins
-* All standard
-* Very easy to pick
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H4
+* Tension: Heavy tension
+* Number of pins: 5
+* Types of pins: Standard
+* Notes: Very easy to pick
 
 # Master Lock Magnum
-* .040 TOK, .025 Peterson Gem
-* Heavy tension
-* Padlock
-* 5 pins
-* Spools and standards
-* Gross lock, sloppy tolerances, loose core
-* Heavy tension is the only thing that makes it tricky
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .025 Peterson Gem
+* Tension: Heavy tension
+* Number of pins: 5
+* Types of pins: Standard and spools
+* Notes: Very easy to pick
+  * Gross lock, sloppy tolerances, loose core
+  * Heavy tension is the only thing that makes it tricky
 
 # Master Lock No 5
-* .040 TOK, .018 Peterson Gem
-* Heavy tension
-* Padlock
-* 5 pins
-* All standard pins
-* Very easy
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson Gem
+* Tension: Heavy tension
+* Number of pins: 5
+* Types of pins: Standard
+* Notes: Very easy to pick
 
 # Master Lock No 570
-* .040 TOK, .018 Peterson Gem
-* Medium tension
-* Padlock
-* 5 pins
-* Standard and spools
-* Pretty easy
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson Gem
+* Tension: Medium tension
+* Number of pins: 5
+* Types of pins: Standard and spools
+* Notes: Pretty easy
 
 # Master Lock No 6835
-* .040 TOK, .018 Peterson Gem
-* Light tension
-* Padlock
-* 5 pins
-* Standard and spools
-* Very easy
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson Gem
+* Tension: Light tension
+* Number of pins: 5
+* Types of pins: Standard and spools
+* Notes: Very easy
 
 # Master Lock No 930
-* .040 TOK, .018 Peterson H4
-* Medium tension
-* Padlock
-* 5 pins
-* All standard pins
-  * Also have one that has standard and serrated pins
-* Very easy
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson H4
+* Tension: Medium tension
+* Number of pins: 5
+* Types of pins: Standard or standard and serrated (two different versions of this lock)
+* Notes: Very easy
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
-* Z bar, Sparrows smooth flag
-* Cam lock
-* 5 pins, no drivers
-* Pins must be rotated and lifted to correct position
-* Can rotate pins using a flag positioned on the outside (either side) of each pin, and pushing forward/backward
-* The pin that is most rigid seems to be the one asking to be set
-* A pin that is slightly loose, but not fully loose seems to indicate it is set
-* The core will rotate into a progressively deeper false set as you correctly set the pins
+* Type: Cam lock
+* Tension wrench: Z bar
+* Pick(s): Sparrows smooth flag
+* Tension: Varying tension
+* Number of pins: 5 (no drivers)
+* Types of pins: Medeco (dowel hole and serrations)
+* Notes: Very easy
+  * Pins must be rotated and lifted to correct position
+  * Can rotate pins using a flag positioned on the outside (either side) of each pin, and pushing forward/backward
+  * The pin that is most rigid seems to be the one asking to be set
+  * A pin that is slightly loose, but not fully loose seems to indicate it is set
+  * The core will rotate into a progressively deeper false set as you correctly set the pins
 
 # Medeco M3 Mortise
 * [My picking video](https://youtu.be/1w8HsfxLv5I?si=-SLLvbBkWvufKenx)
-* .050 TOK, Sparrows smooth flag
-* CCW tensioning allows pin rotation to be determined first, thus engaging the sidebar
-* Mortise Lock
-* 6 pins
-* Correct rotation for all pins can be determined by push the check pin. If correct, the core will rotate slightly
-* Pin rotation can also be checked individually by seeing if the pin is "clicky" as you slide under it (indicating correct rotation)
-* The last pin that needs to be rotated might not feel clicky even if rotated to the correct position
-* One tee pin and one tapered spool found in my lock
-* Tee pin gives to clicks before set
-* Tapered pin gives counter rotation before being set
+* Type: Mortise lock
+* Tension wrench: TOK .050
+* Pick(s): .025 Peterson Gem
+* Tension: Varying tension
+* Number of pins: 6
+* Types of pins: Medeco
+* Notes:
+  * Correct rotation for all pins can be determined by push the check pin. If correct, the core will rotate slightly
+  * Pin rotation can also be checked individually by seeing if the pin is "clicky" as you slide under it (indicating correct rotation)
+  * The last pin that needs to be rotated might not feel clicky even if rotated to the correct position
+  * One tee pin and one tapered spool found in my lock
+  * Tee pin gives to clicks before set
+  * Tapered pin gives counter rotation before being set 
 
-# Packlock 100A
-* .050 TOK if deep enough, .018 Peterson H1
-* Light tension
-* Padlock
-* 6 pins
-* Mix of standard, serrated, spooled
-* Goes into a little false set
-* Similar to American Lock 1100
+# Paclock 100A
+* Type: Padlock
+* Tension wrench: TOK .050 (if wrench is deep enough)
+* Pick(s): .018 Peterson H1
+* Tension: Light tension
+* Number of pins: 6
+* Types of pins: Standard, serrated, and spools
+* Notes:
+  * Goes into a little false set
+  * Similar to American Lock 1100
 
-# Packlock 200A
-* .050 TOK if deep enough, otherwise thin z bar (BOK) style, .018 Peterson H4 & H5 (for deep pins)
-* Light tension
-* Padlock
-* 6 pins
-* Mix of standard, serrated, spooled
-* Goes into a little false set
-* Similar to American Lock 1100
+# Paclock 200A
+* Type: Padlock
+* Tension wrench: TOK .050 (if wrench is deep enough, otherwise thin z bar (BOK) style)
+* Pick(s): .018 Peterson H4/H5
+* Tension: Light tension
+* Number of pins: 6
+* Types of pins: Standard, serrated, and spools
+* Notes:
+  * Goes into a little false set
+  * Similar to American Lock 1100
 
 # Sargent Assa Abloy Mortise
-* .050 TOK, .018 Peterson Gem
-* Apply enough tension to feel the bound pin sliding up with resistance
-* Mortise lock
-* 6 pins all standard
-* Super good tolerances
-* More success picking CCW than CW
-* Sometimes feels like a pin is set, but might not be
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson Gem
+* Tension: Apply enough tension to feel the bound pin sliding up with resistance
+* Number of pins: 6
+* Types of pins: Standard
+* Notes:
+  * Super good tolerances
+  * More success picking CCW than CW
+  * Sometimes feels like a pin is set, but might not be
 
 # Sealey PI207
-* L wrench BOK, .018 Peterson H1
-* Light tension
-* Shutter lock
-* 5 pins
-* All standard pins
-* Tight/small keyway
-* Easy
+* Type: Shutter
+* Tension wrench: BOK L wrenche
+* Pick(s): .018 Peterson H1
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Standard
+* Notes:
+  * Tight/small keyway
+  * Easy
 
 # Toledo TBK90R
-* .040 TOK, .018 Peterson Gem, H4/H5 for high set pins
-* Medium-light tension
-* Padlock
-* 6 pins
-* Standard and spooled pins
-* Very good feedback
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson Gem/H4/H5
+* Tension: Medium-light
+* Number of pins: 6
+* Types of pins: Standard and spools
+* Notes: Very good feedback
 
 # U.S. General
-* .050 TOK, .018 Peterson H4/H5
-* Medium tension
-* Padlock
-* 5 pins
-* Standard and maybe serrated
-
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H4/H5
+* Tension: Medium
+* Number of pins: 5
+* Types of pins: Standard and maybe serrated
+* Notes:
   
