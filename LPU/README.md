@@ -5,6 +5,10 @@ This is home to my documentation related to [LPU (Lock Pickers United)](https://
 * [Green Belt - Medeco Duracam](https://youtu.be/23MHaHG4b7k?si=L5R5kqTtuqIdboLt)
   * Awarded Green Belt - 10/22/2023
   * ![Green Belt Approved](green_belt_approval.png)
+* Purple Belt
+  * [Challenge Lock](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
+  * [Medeco M3](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
+  * [Kwikset Smartkey](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
