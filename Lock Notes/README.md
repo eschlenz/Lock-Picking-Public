@@ -8,6 +8,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Federal 90A](#federal-90a)
 * [First Watch](#first-watch)
 * [Hurd USA](#hurd-usa)
+* [Kwikset Smartkey Gen 2](#kwikset-smartkey-gen-2)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock 605DAT](#master-lock-605dat)
 * [Master Lock Excell](#master-lock-excell)
@@ -80,6 +81,17 @@ This is home to my personal notes on locks I own and/or have picked.
 * 5 pins
 * All standard pins
 * Easy
+
+# Kwikset Smartkey Gen 2
+* [My picking video](https://www.youtube.com/watch?v=kC1vp0_bt5g)
+* .050 TOK, .018 Peterson Gem
+* Light tension (seriously)
+* Padlock
+* 5 wafer pins / lots of false gatesx
+* Focus on the binding pin and move up one click at a time
+* True gate feels much floppier than the false gates
+* Lightly dragging under the pins can help find the binder, or nudge pins into the true gate if close but not in it yet
+* Tricky lock to pick
 
 # Mako 427
 * Multipick SP-17 TOK, .018 Peterson H4
@@ -160,6 +172,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * The core will rotate into a progressively deeper false set as you correctly set the pins
 
 # Medeco M3 Mortise
+* [My picking video](https://youtu.be/1w8HsfxLv5I?si=-SLLvbBkWvufKenx)
 * .050 TOK, Sparrows smooth flag
 * CCW tensioning allows pin rotation to be determined first, thus engaging the sidebar
 * Mortise Lock
