@@ -5,6 +5,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Ace A527](#ace-a527)
 * [American Lock 700](#american-lock-700)
 * [Brava Oval](#brava-oval)
+* [Federal 200A](#federal-200a)
 * [Federal 90A](#federal-90a)
 * [First Watch](#first-watch)
 * [Hurd USA](#hurd-usa)
@@ -56,6 +57,18 @@ This is home to my personal notes on locks I own and/or have picked.
   * Appears to have flat wafer pins
   * Multiple notches on each pin
   * Just keep lifting the binding pin a notch until you get the open
+
+# Federal 200A
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson Gen
+* Tension: Light tension
+* Number of pins: 6
+* Types of pins: Mix of standard, serrated, spooled
+* Notes:
+  * Goes into a deep false set
+  * Similar to American Lock 1100
+
 
 # Federal 90A
 * Type: Padlock
