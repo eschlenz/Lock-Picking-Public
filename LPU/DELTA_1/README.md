@@ -9,7 +9,7 @@ challenge lock.
 * [Video of lock and key working](https://photos.app.goo.gl/qTvrD4BcjChXPYa1A)
 
 # Note
-The date/times on the photos should be ignored as the time was not set correctly on the digital micrscope used to capture the photos. This challenge lock was created between October 23rd-24th, 2023.
+The date/times on the photos should be ignored as the time was not set correctly on the digital microscope used to capture the photos. This challenge lock was created between October 23rd-24th, 2023.
 
 # Original Lock
 * Make: Kwikset
@@ -21,6 +21,7 @@ The date/times on the photos should be ignored as the time was not set correctly
   * Engraving Bit
 * Hacksaw Blade
 * 1000 Grit Sandpaper
+* Tap for threading
 
 # LPU Challenge Lock Requirements
 While the [requirements](https://www.reddit.com/r/lockpicking/wiki/index/#wiki_challenge_lock_requirements) only dictate 6 modifications, I've included more than that:
