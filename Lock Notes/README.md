@@ -10,6 +10,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Federal 90A](#federal-90a)
 * [First Watch](#first-watch)
 * [Hurd USA](#hurd-usa)
+* [Kasp 14040](#kasp-14040)
 * [Kwikset Smartkey Gen 2](#kwikset-smartkey-gen-2)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock 605DAT](#master-lock-605dat)
@@ -115,6 +116,18 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Types of pins: Standard
 * Notes: Easy
+
+# Kasp 14040
+* Type: Padlock
+* Tension wrench: BOK L wrench
+* Pick(s): 15A SSDEV
+* Tension: Light tension
+* Number of pins: 6
+* Types of pins: Standard, spooled, and serrated 
+* Notes:
+    * Tight keyway
+    * Pick off right ledge
+    * PITA
 
 # Kwikset Smartkey Gen 2
 * [My picking video](https://www.youtube.com/watch?v=kC1vp0_bt5g)
