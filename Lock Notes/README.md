@@ -12,6 +12,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Hurd USA](#hurd-usa)
 * [Kasp 14040](#kasp-14040)
 * [Kwikset Smartkey Gen 2](#kwikset-smartkey-gen-2)
+* [Kryptonite 851219](#kryptonite-851219) [lockwiki](https://www.lockwiki.com/index.php/Kryptonite_851219)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock 605DAT](#master-lock-605dat)
 * [Master Lock Excell](#master-lock-excell)
@@ -81,7 +82,6 @@ This is home to my personal notes on locks I own and/or have picked.
   * Goes into a deep false set
   * Similar to American Lock 1100
 
-
 # Federal 90A
 * Type: Padlock
 * Tension wrench: TOK .050
@@ -128,6 +128,18 @@ This is home to my personal notes on locks I own and/or have picked.
     * Tight keyway
     * Pick off right ledge
     * PITA
+ 
+# Kryptonite 851219
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .025 HD
+* Tension: Medium tension
+* Number of pins: 6
+* Types of pins: Standard and spools. Maybe serrated.
+* Notes:
+    * Light tension to get into deep false set
+    * Requires heavier tension and heavy pick pressure to deal with spools and their counter rotation
+    * Some high set pins
 
 # Kwikset Smartkey Gen 2
 * [My picking video](https://www.youtube.com/watch?v=kC1vp0_bt5g)
