@@ -4,6 +4,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Index
 * [Ace A527](#ace-a527)
 * [American Lock 700](#american-lock-700)
+* [American Lock U.S. Set](#american-lock-us-set)
 * [Brava Oval](#brava-oval)
 * [Federal 200A](#federal-200a)
 * [Federal 90A](#federal-90a)
@@ -45,6 +46,15 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Types of pins: Standard and serrated(?)
 * Notes: Easy
+
+# American Lock U.S. Set
+* Type: Padlock
+* Tension wrench: TOK .040
+* Pick(s): 15B SSDEV
+* Tension: Medium
+* Number of pins: 5
+* Types of pins: Standard
+* Notes: Challenging keyway
 
 # Brava Oval
 * Type: Cam lock
