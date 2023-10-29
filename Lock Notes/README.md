@@ -24,6 +24,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
+* [Sesame SFIC](#sesame-sfic)
 * [Toledo TBK90R](#toledo-tbk90r)
 * [U.S. General](#us-general)
 
@@ -269,6 +270,17 @@ This is home to my personal notes on locks I own and/or have picked.
 * Notes:
   * Tight/small keyway
   * Easy
+ 
+# Sesame SFIC
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson Gem/H4
+* Tension: Light
+* Number of pins: 7
+* Types of pins: Standard
+* Notes:
+  * Falcon core
+  * Tight tolerances 
 
 # Toledo TBK90R
 * Type: Padlock
