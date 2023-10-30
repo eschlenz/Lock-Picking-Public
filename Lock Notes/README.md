@@ -3,6 +3,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Index
 * [Ace A527](#ace-a527)
+* [American Lock A1100](#american-lock-a1100)
 * [American Lock 700](#american-lock-700)
 * [American Lock U.S. Set](#american-lock-us-set)
 * [Brava Oval](#brava-oval)
@@ -40,6 +41,18 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Types of pins: Standard and serrated
 * Notes: Pretty easy
+
+# American Lock A1100
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson Gem
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Standard, spools, and serrated.
+* Notes:
+    * Mine might need some cleaning/lubrication. Easy to overset pins.
+    * Some clicks are hard to determine if they are serrations or set pin.
+    * Very light Tension, gentle nudges a click at a time, and releasing overset pins got mine open.
 
 # American Lock 700
 * Type: Padlock
