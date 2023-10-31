@@ -36,7 +36,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Paclock 2173A](#paclock-2173a)
 * [Paclock 90A-PRO](#paclock-90a-pro)
-* [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
+* [Sargent Assa Abloy](#sargent-assa-abloy) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
+* [Schlage Everest](#schlage-everest) ([lockwiki](https://www.lockwiki.com/index.php/Schlage_Everest))
 * [Sealey PI207](#sealey-pi207)
 * [Sesame SFIC](#sesame-sfic)
 * [Toledo TBK90R](#toledo-tbk90r)
@@ -443,8 +444,8 @@ This is home to my personal notes on locks I own and/or have picked.
   * Goes into a good false set eventually
   * Easy to drop pins
 
-# Sargent Assa Abloy Mortise
-* Type: Padlock
+# Sargent Assa Abloy
+* Type: Mortise
 * Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gem
@@ -455,6 +456,20 @@ This is home to my personal notes on locks I own and/or have picked.
   * Super good tolerances
   * More success picking CCW than CW
   * Sometimes feels like a pin is set, but might not be
+
+# Schlage Everest
+* Type: Mortise
+* Picked: Yes
+* Tension wrench: TOK .040
+* Pick(s): .018 Peterson H4
+* Tension: Light
+* Number of pins: 6 + check pin
+* Types of pins: Standard
+* Notes:
+  * Feels good to pick / smooth movement
+  * Also fun to pick
+  * Use a pick flat against the bottom and work it back and forth to hit the check pin
+  * Check pin seems to bind last on mine
 
 # Sealey PI207
 * Type: Shutter
