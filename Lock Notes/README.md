@@ -31,6 +31,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
+* [Paclock 90A-PRO](#paclock-90a-pro)
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
 * [Sesame SFIC](#sesame-sfic)
@@ -348,6 +349,17 @@ This is home to my personal notes on locks I own and/or have picked.
 * Notes:
   * Goes into a little false set
   * Similar to American Lock 1100
+ 
+# Paclock 90A-PRO
+* Type: Padlock
+* Tension wrench: TOK .032
+* Pick(s): .018 Peterson H4
+* Tension: Medium-heavy tension
+* Number of pins: 7
+* Types of pins: Standard, serrated, and spools
+* Notes:
+  * Goes into a good false set eventually
+  * Easy to drop pins
 
 # Sargent Assa Abloy Mortise
 * Type: Padlock
