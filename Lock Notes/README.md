@@ -4,6 +4,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Index
 * [Abus 72/40](#abus-7240)
 * [Ace A527](#ace-a527)
+* [American Lock 1100](#american-lock-1100)
 * [American Lock A1100](#american-lock-a1100)
 * [American Lock 5200](#american-lock-5200)
 * [American Lock 700](#american-lock-700)
@@ -51,6 +52,16 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Types of pins: Standard and serrated
 * Notes: Pretty easy
+
+# American Lock 1100
+* Type: Padlock
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson Gem
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Standard, spools?, and serrated.
+* Notes:
+    * If there were spools, I didn't detect them.
 
 # American Lock A1100
 * Type: Padlock
