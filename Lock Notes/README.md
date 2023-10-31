@@ -2,6 +2,7 @@
 This is home to my personal notes on locks I own and/or have picked.
 
 # Index
+* [Abus 72/40](#abus-7240)
 * [Ace A527](#ace-a527)
 * [American Lock A1100](#american-lock-a1100)
 * [American Lock 5200](#american-lock-5200)
@@ -33,6 +34,14 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Sesame SFIC](#sesame-sfic)
 * [Toledo TBK90R](#toledo-tbk90r)
 * [U.S. General](#us-general)
+
+# Abus 72/40
+* Type: Padlock 
+* Tension wrench: TOK .032
+* Pick(s): 15B SSDEV 
+* Number of pins: 6
+* Type of pins: Standard, spools, and serrated.
+* Notes: Warding gets in the way a bit
 
 # Ace A527
 * Type: Padlock
