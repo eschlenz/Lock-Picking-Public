@@ -32,6 +32,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
+* [Paclock 2173A](#paclock-2173a)
 * [Paclock 90A-PRO](#paclock-90a-pro)
 * [Sargent Assa Abloy Mortise](#sargent-assa-abloy-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Sargent))
 * [Sealey PI207](#sealey-pi207)
@@ -377,6 +378,21 @@ This is home to my personal notes on locks I own and/or have picked.
 * Notes:
   * Goes into a little false set
   * Similar to American Lock 1100
+
+# Paclock 2173A
+* Type: Puck lock
+* Picked: Yes
+* Tension wrench: TOK .050
+* Pick(s): .018 Peterson H5
+* Tension: Medium tension
+* Number of pins: 6
+* Types of pins: Standard, serrated, and spools
+* Notes:
+  * Goes into a little false set
+  * Similar to American Lock 1100
+  * Really easy to overset pins
+  * Really easy to drop pins
+  * Serration vs set clicks can be hard to differentiate
 
 # Paclock 200A
 * Type: Padlock
