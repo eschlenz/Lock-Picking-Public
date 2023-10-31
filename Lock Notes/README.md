@@ -12,6 +12,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [American Lock 700](#american-lock-700)
 * [American Lock U.S. Set](#american-lock-us-set)
 * [Brava Oval](#brava-oval)
+* [Brinks 50mm](#brinks-50mm)
 * [CISA PS/45](#cisa-ps45)
 * [Federal 200A](#federal-200a)
 * [Federal 90A](#federal-90a)
@@ -148,6 +149,19 @@ This is home to my personal notes on locks I own and/or have picked.
   * Appears to have flat wafer pins
   * Multiple notches on each pin
   * Just keep lifting the binding pin a notch until you get the open
+ 
+# Brinks 50mm
+* Type: Padlock
+* Picked: Yes
+* Tension wrench: TOK .040
+* Pick(s): Peterson H4 or H5
+* Tension: Light
+* Number of pins: 5
+* Types of pins: Standard and spools
+* Notes:
+   * Easy
+   * Some pins are very high lift
+   * On mine, the front two are high lift
  
 # CISA PS/45
 * Type: Padlock
