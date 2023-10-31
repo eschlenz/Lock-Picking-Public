@@ -9,6 +9,8 @@ This is home to my documentation related to [LPU (Lock Pickers United)](https://
   * [Challenge Lock](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
   * [Medeco M3](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
   * [Kwikset Smartkey](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
+  * Awarded Purple Belt - 10/31/2023
+  * ![Purple Belt Approved](purple_belt_approval.png)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
