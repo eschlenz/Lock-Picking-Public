@@ -3,6 +3,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Index
 * [Abus 72/40](#abus-7240) ([lockwiki](https://www.lockwiki.com/index.php/ABUS_72))
+* [Abus Mylock](#abus-mylock)
 * [Abus Titalium 64TI/40](#abus-titalium-64ti40)
 * [Ace A527](#ace-a527)
 * [American Lock 1100](#american-lock-1100) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_1100_1200_1300))
@@ -48,6 +49,16 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 6
 * Type of pins: Standard, spools, and serrated.
 * Notes: Warding gets in the way a bit
+
+# Abus Mylock
+* Type: Padlock
+* Picked: Yes
+* Tension wrench: BOK L wrench
+* Pick(s): .015 Peterson DP
+* Number of pins: 5
+* Type of pins: Standard
+* Notes: Warding gets in the way a bit
+
 
 # Abus Titalium 64TI/40
 * Type: Padlock
