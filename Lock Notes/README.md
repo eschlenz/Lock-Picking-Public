@@ -19,6 +19,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Kasp 14040](#kasp-14040)
 * [Kwikset Smartkey Gen 2](#kwikset-smartkey-gen-2) ([lockwiki](https://www.lockwiki.com/index.php/Kwikset_Smart_Key))
 * [Kryptonite 851219](#kryptonite-851219) ([lockwiki](https://www.lockwiki.com/index.php/Kryptonite_851219))
+* [Kryptonite Level 3](#kryptonite-level-3)
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock 605DAT](#master-lock-605dat)
 * [Master Lock Excell](#master-lock-excell)
@@ -223,6 +224,16 @@ This is home to my personal notes on locks I own and/or have picked.
     * Light tension to get into deep false set
     * Requires heavier tension and heavy pick pressure to deal with spools and their counter rotation
     * Some high set pins
+ 
+# Kryptonite Level 3
+* Type: Padlock
+* Picked: Yes
+* Tension wrench: TOK .32
+* Pick(s): .025 HD
+* Tension: Medium tension
+* Number of pins: 4
+* Types of pins: Standard
+* Notes: It would open just by giving it a dirty look.
 
 # Kwikset Smartkey Gen 2
 * [My picking video](https://www.youtube.com/watch?v=kC1vp0_bt5g)
