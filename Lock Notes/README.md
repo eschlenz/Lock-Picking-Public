@@ -2,12 +2,12 @@
 This is home to my personal notes on locks I own and/or have picked.
 
 # Index
-* [Abus 72/40](#abus-7240)
+* [Abus 72/40](#abus-7240) ([lockwiki](https://www.lockwiki.com/index.php/ABUS_72))
 * [Abus Titalium 64TI/40](#abus-titalium-64ti40)
 * [Ace A527](#ace-a527)
-* [American Lock 1100](#american-lock-1100)
-* [American Lock A1100](#american-lock-a1100)
-* [American Lock 5200](#american-lock-5200)
+* [American Lock 1100](#american-lock-1100) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_1100_1200_1300))
+* [American Lock A1100](#american-lock-a1100) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_1100_1200_1300))
+* [American Lock 5200](#american-lock-5200) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_5200))
 * [American Lock 700](#american-lock-700)
 * [American Lock U.S. Set](#american-lock-us-set)
 * [Brava Oval](#brava-oval)
@@ -17,8 +17,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * [First Watch](#first-watch)
 * [Hurd USA](#hurd-usa)
 * [Kasp 14040](#kasp-14040)
-* [Kwikset Smartkey Gen 2](#kwikset-smartkey-gen-2)
-* [Kryptonite 851219](#kryptonite-851219) [lockwiki](https://www.lockwiki.com/index.php/Kryptonite_851219)
+* [Kwikset Smartkey Gen 2](#kwikset-smartkey-gen-2) ([lockwiki](https://www.lockwiki.com/index.php/Kwikset_Smart_Key))
+* [Kryptonite 851219](#kryptonite-851219) ([lockwiki](https://www.lockwiki.com/index.php/Kryptonite_851219))
 * [Mako 427](#mako-427) ([lockwiki](https://www.lockwiki.com/index.php/MAKO_427))
 * [Master Lock 605DAT](#master-lock-605dat)
 * [Master Lock Excell](#master-lock-excell)
