@@ -39,7 +39,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * [U.S. General](#us-general)
 
 # Abus 72/40
-* Type: Padlock 
+* Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .032
 * Pick(s): 15B SSDEV 
 * Number of pins: 6
@@ -47,7 +48,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * Notes: Warding gets in the way a bit
 
 # Abus Titalium 64TI/40
-* Type: Padlock 
+* Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .032
 * Pick(s): .018 Peterson Gem
 * Number of pins: 6
@@ -56,6 +58,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Ace A527
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson H4/H5
 * Tension: Light
@@ -65,6 +68,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # American Lock 1100
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gem
 * Tension: Light
@@ -75,6 +79,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # American Lock A1100
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gem
 * Tension: Light
@@ -87,6 +92,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # American Lock 5200
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: BOK L wrench 
 * Pick(s): .015 Peterson H1
 * Tension: Light
@@ -98,6 +104,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # American Lock 700
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson H4/H5
 * Tension: Light
@@ -107,6 +114,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # American Lock U.S. Set
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): 15B SSDEV
 * Tension: Medium
@@ -116,6 +124,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Brava Oval
 * Type: Cam lock
+* Picked: Yes
 * Tension wrench: TOK heavy bar
 * Pick(s): .018 Peterson Gem
 * Tension: Light
@@ -128,7 +137,8 @@ This is home to my personal notes on locks I own and/or have picked.
   * Just keep lifting the binding pin a notch until you get the open
  
 # CISA PS/45
-* Type: Padlock 
+* Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .032
 * Pick(s): 15A/15B SSDEV 
 * Tension: Light
@@ -140,6 +150,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Federal 200A
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gen
 * Tension: Light tension
@@ -151,6 +162,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Federal 90A
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson H4
 * Tension: Light tension (enough to get past core spring tension though)
@@ -164,6 +176,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # First Watch
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson H4/H5
 * Tension: Light tension (enough to get past core spring tension though)
@@ -177,6 +190,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Hurd USA
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .025 Peterson Gem
 * Tension: Heavy tension
@@ -186,6 +200,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Kasp 14040
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: BOK L wrench
 * Pick(s): 15A SSDEV
 * Tension: Light tension
@@ -198,6 +213,7 @@ This is home to my personal notes on locks I own and/or have picked.
  
 # Kryptonite 851219
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .025 HD
 * Tension: Medium tension
@@ -211,6 +227,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Kwikset Smartkey Gen 2
 * [My picking video](https://www.youtube.com/watch?v=kC1vp0_bt5g)
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gem
 * Tension: Very light tension
@@ -223,6 +240,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Mako 427
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK Multipick SP-17
 * Pick(s): .018 Peterson H4
 * Tension: Light tension
@@ -234,6 +252,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock 605DAT
 * Type: Shutter
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .018 Peterson H1
 * Tension: Light tension
@@ -243,6 +262,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock Excell
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson H4
 * Tension: Heavy tension
@@ -252,6 +272,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock Magnum
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .025 Peterson Gem
 * Tension: Heavy tension
@@ -263,6 +284,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock No 5
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .018 Peterson Gem
 * Tension: Heavy tension
@@ -272,6 +294,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock No 570
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .018 Peterson Gem
 * Tension: Medium tension
@@ -281,6 +304,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock No 6835
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .018 Peterson Gem
 * Tension: Light tension
@@ -290,6 +314,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Master Lock No 930
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .018 Peterson H4
 * Tension: Medium tension
@@ -300,6 +325,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
 * Type: Cam lock
+* Picked: Yes
 * Tension wrench: Z bar
 * Pick(s): Sparrows smooth flag
 * Tension: Varying tension
@@ -315,6 +341,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Medeco M3 Mortise
 * [My picking video](https://youtu.be/1w8HsfxLv5I?si=-SLLvbBkWvufKenx)
 * Type: Mortise lock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .025 Peterson Gem
 * Tension: Varying tension
@@ -330,6 +357,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Paclock 100A
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050 (if wrench is deep enough)
 * Pick(s): .018 Peterson H1
 * Tension: Light tension
@@ -341,6 +369,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Paclock 200A
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050 (if wrench is deep enough, otherwise thin z bar (BOK) style)
 * Pick(s): .018 Peterson H4/H5
 * Tension: Light tension
@@ -352,6 +381,7 @@ This is home to my personal notes on locks I own and/or have picked.
  
 # Paclock 90A-PRO
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .032
 * Pick(s): .018 Peterson H4
 * Tension: Medium-heavy tension
@@ -363,6 +393,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Sargent Assa Abloy Mortise
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gem
 * Tension: Apply enough tension to feel the bound pin sliding up with resistance
@@ -375,6 +406,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Sealey PI207
 * Type: Shutter
+* Picked: Yes
 * Tension wrench: BOK L wrenche
 * Pick(s): .018 Peterson H1
 * Tension: Light
@@ -386,6 +418,7 @@ This is home to my personal notes on locks I own and/or have picked.
  
 # Sesame SFIC
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson Gem/H4
 * Tension: Light
@@ -397,6 +430,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # Toledo TBK90R
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .040
 * Pick(s): .018 Peterson Gem/H4/H5
 * Tension: Medium-light
@@ -406,6 +440,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # U.S. General
 * Type: Padlock
+* Picked: Yes
 * Tension wrench: TOK .050
 * Pick(s): .018 Peterson H4/H5
 * Tension: Medium
