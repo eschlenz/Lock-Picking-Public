@@ -229,7 +229,7 @@ This is home to my personal notes on locks I own and/or have picked.
 # Kryptonite Level 3
 * Type: Padlock
 * Picked: Yes
-* Tension wrench: TOK .32
+* Tension wrench: TOK .040
 * Pick(s): .025 HD
 * Tension: Medium tension
 * Number of pins: 4
