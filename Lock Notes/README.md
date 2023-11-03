@@ -31,6 +31,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Master Lock No 6835](#master-lock-no-6835)
 * [Master Lock No 930](#master-lock-no-930) ([lockwiki](https://www.lockwiki.com/index.php/Master_Lock_No_930))
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
+* [Medeco Keymark](#medeco-keymark)
 * [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
@@ -60,7 +61,6 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Type of pins: Standard
 * Notes: Warding gets in the way a bit
-
 
 # Abus Titalium 64TI/40
 * Type: Padlock
@@ -359,6 +359,28 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Types of pins: Standard or standard and serrated (two different versions of this lock)
 * Notes: Very easy
+
+# Medeco Keymark
+* Type: SFIC
+* Picked: Yes (to operating only)
+* Tension wrench: TOK .050
+* Pick(s): 15C SSDEV
+* Tension: Medium-light / float
+* Number of pins: 7
+* Types of pins: Standard and spools. Keypins may also have some spools.
+* Notes:
+   * Keymark Keyway:
+      * Though the keyway looks daunting, it can be navigated from the BOK
+      * Line the pick up at the very bottom-left, with the pick oriented parallel to the keyway
+      * By moving the pick straight up you can access each pin
+      * Warding between the pins will get in the way, so practice without the tension wrench to get the feel
+      * If you have the distance from pin to pin down in muscle memory, you can trust you are on a binder more versus the warding
+      * Letting off tension and poking can help determine warding versus pins
+   * My Keymark SFIC
+      * Operating
+         * Binding order: 5, 4, 6, 2, 1, 3, 7
+         * Pins 1, 2, and 3 are higher lifts and give counter rotation
+         * Pin 7 needs float picking backwards to get it into position
 
 # Medeco Duracam
 * [My picking video](https://youtu.be/23MHaHG4b7k?si=364pB42eWZhKSs5o)
