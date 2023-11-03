@@ -379,6 +379,7 @@ This is home to my personal notes on locks I own and/or have picked.
    * My Keymark SFIC
       * Operating
          * Binding order: 5, 4, 6, 2, 1, 3, 7
+         * Pin 4 is a small movement to set
          * Pins 1, 2, and 3 are higher lifts and give counter rotation
          * Pin 7 needs float picking backwards to get it into position
 
