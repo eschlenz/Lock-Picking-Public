@@ -1,5 +1,5 @@
 # About
-This is home to my documentation related to [LPU (Lock Pickers United)](https://www.reddit.com/r/lockpicking/). I'm using this a central repository for resources I need to share as a member of the LPU.
+This is my home for my documentation related to [LPU (Lock Pickers United)](https://www.reddit.com/r/lockpicking/). I'm using this as a central repository for resources I need to share as a member of the LPU.
 
 # Belt Request Videos
 * [Green Belt - Medeco Duracam](https://youtu.be/23MHaHG4b7k?si=L5R5kqTtuqIdboLt)
