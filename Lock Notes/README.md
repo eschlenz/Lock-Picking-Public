@@ -392,7 +392,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Tension: Varying tension
 * Number of pins: 5 (no drivers)
 * Types of pins: Medeco (dowel hole and serrations)
-* Notes: Very easy
+* Notes: 
   * Pins must be rotated and lifted to correct position
   * Can rotate pins using a flag positioned on the outside (either side) of each pin, and pushing forward/backward
   * The pin that is most rigid seems to be the one asking to be set
