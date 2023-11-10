@@ -31,7 +31,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Master Lock No 6835](#master-lock-no-6835)
 * [Master Lock No 930](#master-lock-no-930) ([lockwiki](https://www.lockwiki.com/index.php/Master_Lock_No_930))
 * [Medeco Duracam](#medeco-duracam) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_Duracam))
-* [Medeco Keymark](#medeco-keymark)
+* [Medeco KeyMark Mortise](#medeco-keymark-mortise)
+* [Medeco KeyMark SFIC](#medeco-keymark-sfic)
 * [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
 * [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
@@ -360,7 +361,20 @@ This is home to my personal notes on locks I own and/or have picked.
 * Types of pins: Standard or standard and serrated (two different versions of this lock)
 * Notes: Very easy
 
-# Medeco Keymark
+# Medeco Keymark Mortise
+* Type: Mortise
+* Picked: Yes
+* Tension wrench: TOK .050
+* Pick(s): 15C SSDEV
+* Tension: Medium-light / float
+* Number of pins: 6 (7 chamgers)
+* Types of pins: All standard. Every pin has a master wafer.
+* Notes:
+   * See Keymark SFIC Keyway notes since it's exactly the same.
+   * Binding order: 4, 5, 6, 3, 1, 2
+   * Pin 1 is a high lift
+
+# Medeco Keymark SFIC
 * Type: SFIC
 * Picked: Yes (to operating only)
 * Tension wrench: TOK .050
