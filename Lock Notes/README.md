@@ -14,6 +14,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Brava Oval](#brava-oval)
 * [Brinks 50mm](#brinks-50mm)
 * [CISA PS/45](#cisa-ps45)
+* [EVVA ICS](#evva-ics)
 * [Federal 200A](#federal-200a)
 * [Federal 90A](#federal-90a)
 * [First Watch](#first-watch)
@@ -176,6 +177,32 @@ This is home to my personal notes on locks I own and/or have picked.
 * Notes:
     * 15A to false set
     * 15B to deal with spools 
+
+# EVVA ICS
+# [My picking video](https://youtu.be/zhpDa8Lffy0?si=oo6WiTS-gLyWqYFi)
+* Type: Euro Cylinder
+* Picked: Yes
+* Tension wrench: Sparrows Z bar + silver extended Z bar
+* Pick(s): SSDEV style hook + DIY flag
+* Tension: Very heavy / float
+* Number of pins: 3 + 10 finger pins (5 per side)
+* Types of pins: Standard and finger pins with 2 false gates and one true gate each
+* Notes:
+  * I picked CCW
+  * Picks in 3 phases: top pins, left side bar, right side bar (flip side bar order if CW picking)
+  * Top pins are standard, but awkward because they have a fin protrusion. Easy to set once you get on them
+  * Finger pins like to ping pong like crazy
+  * To combat ping ponging, heavy tension and force finger pins up into their true gates
+  * Finger pins in true gate will be slightly jiggly
+  * Top pins like to fall down early on in the finger pin picking, so double check them from time to time
+  * Some finger pins are very high lift and require a hook to get them all the way home
+  * Mostly used DIY flag to pick finger pins
+  * On my lock, L2 and L5 are "zero lift" pins, and R3 is as well
+  * Zero lift does not always mean zero lift. Might need a slight nudge to get set
+  * Keep DIY flag pick as flat against the warding as possible to keep it parallel with the core
+  * On my lock:
+     * Left side: lift L4 (highest) first, then L3 (high), then L1 (high)
+     * Right side: lift R2 one notch, then R2 to true gate (high). Then either R4 and R5 (low) or R1 (high)
 
 # Federal 200A
 * Type: Padlock
@@ -362,6 +389,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * Notes: Very easy
 
 # Medeco Keymark Mortise
+* [My picking video](https://youtu.be/_2G9onSGEDI)
 * Type: Mortise
 * Picked: Yes
 * Tension wrench: TOK .050
