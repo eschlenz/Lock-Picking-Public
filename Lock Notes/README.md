@@ -180,6 +180,7 @@ This is home to my personal notes on locks I own and/or have picked.
 
 # EVVA ICS
 # [My picking video](https://youtu.be/zhpDa8Lffy0?si=oo6WiTS-gLyWqYFi)
+* [My deep dive video](https://youtu.be/QFXKq4Q7f3Y?si=Z-qbZDhwBe5knBR6)
 * Type: Euro Cylinder
 * Picked: Yes
 * Tension wrench: Sparrows Z bar + silver extended Z bar
