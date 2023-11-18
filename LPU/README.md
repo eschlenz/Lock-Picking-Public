@@ -3,19 +3,19 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
 
 # Belt Request Videos
 * Green Belt
-  * [Medeco Duracam](https://youtu.be/23MHaHG4b7k?si=L5R5kqTtuqIdboLt)
+  * [Medeco Duracam](https://www.youtube.com/watch?v=23MHaHG4b7k)
   * Awarded Green Belt - 10/22/2023
   * ![Green Belt Approved](green_belt_approval.png)
 * Purple Belt
-  * [Challenge Lock](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
-  * [Medeco M3](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
-  * [Kwikset Smartkey](https://discord.com/channels/140129091796992000/282173282546089985/1167901347824271481)
+  * [Challenge Lock](https://github.com/eschlenz/Lock-Picking-Public/tree/main/LPU/DELTA_1)
+  * [Medeco M3](https://www.youtube.com/watch?v=1w8HsfxLv5I)
+  * [Kwikset Smartkey](https://youtu.be/kC1vp0_bt5g?si=q81mX55eXcMq27L8)
   * Awarded Purple Belt - 10/31/2023
   * ![Purple Belt Approved](purple_belt_approval.png)
 * Brown Belt
   * [Tool Specs - EVVA ICS Flag Pick](https://github.com/eschlenz/Lock-Picking-Public/tree/main/LPU/Tools/EVVA%20ICS%20Flag%20Pick)
-  * [Medeco Duracam](https://youtu.be/23MHaHG4b7k?si=L5R5kqTtuqIdboLt)
-  * [EVVA ICS](https://youtu.be/d5d48lC0KP8?si=_BsZclj_lEjyjqKe)
+  * [Medeco Duracam](https://www.youtube.com/watch?v=23MHaHG4b7k)
+  * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
