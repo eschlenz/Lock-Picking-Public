@@ -15,14 +15,14 @@ this pick in use in my picking video for the [EVVA ICS](https://youtu.be/zhpDa8L
 * [CAD STEP File](evva_ics_flag_pick.step)
 
 # Materials
-This pick was made out of 1.6 mm piano wire. You can buy a batch of different diameter piano wires from [Amazon](https://www.amazon.com/dp/B0B491L6LV?psc=1&ref=ppx_yo2ov_dt_b_product_details)https://www.amazon.com/dp/B0B491L6LV?psc=1&ref=ppx_yo2ov_dt_b_product_details.
+This pick was made out of 1.6 mm piano wire. You can buy a batch of different diameter piano wires from [Amazon](https://www.amazon.com/dp/B0B491L6LV?psc=1&ref=ppx_yo2ov_dt_b_product_details).
 
 # Tools
-1. Vice or pliers to hold wire while you bend.
+1. Vise or pliers to hold wire while you bend.
 2. Wire cutters for trimming to length.
 3. Dremel
   1. Stone bit for grinding away material near the tip.
-  2. Cut off wheel for serrations (depth markers).
+  2. Cut off wheel for depth markers.
 4. Blue Dykem or Sharpie to fill in depth marker serrations.
 5. 320 and 1,000 grit sand paper to smooth rough edges.
 
