@@ -1,6 +1,6 @@
 # EVVA ICS Flag Pick
 
-![EVVA ICS](evva_ics.png)
+![EVVA ICS](evva_ics.jpg)
 
 During my journey to learn how to pick the EVVA ICS lock I ended up needing to create a custom flag pick. I have recreated the pick in CAD and am sharing it here. You can see
 this pick in use in my picking video for the [EVVA ICS](https://youtu.be/zhpDa8Lffy0?si=67tsphZe8olNB93P).
