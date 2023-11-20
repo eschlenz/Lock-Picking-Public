@@ -16,7 +16,7 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
   * [Tool Specs - EVVA ICS Flag Pick](https://github.com/eschlenz/Lock-Picking-Public/tree/main/LPU/Tools/EVVA%20ICS%20Flag%20Pick)
   * [Medeco Duracam](https://www.youtube.com/watch?v=23MHaHG4b7k)
   * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
-  * Awarded Brown Belt - 11-18/2023
+  * Awarded Brown Belt - 11/18/2023
   * ![Brown Belt Approved](brown_belt_approval.png)
 
 # Challenge Locks
