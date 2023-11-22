@@ -11,6 +11,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [American Lock 5200](#american-lock-5200) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_5200))
 * [American Lock 700](#american-lock-700)
 * [American Lock U.S. Set](#american-lock-us-set)
+* [ASSA Twin 6k](#assa-twin-6k)
 * [Brava Oval](#brava-oval)
 * [Brinks 50mm](#brinks-50mm)
 * [CISA PS/45](#cisa-ps45)
@@ -138,6 +139,28 @@ This is home to my personal notes on locks I own and/or have picked.
 * Number of pins: 5
 * Types of pins: Standard
 * Notes: Challenging keyway
+
+# ASSA Twin 6K
+* Type: Mortise
+* Picked: No
+* Tension wrench: 
+* Pick(s): Flag for side pins and ?
+* Tension: Varying
+* Number of pins: 5 side pins, 6 top pins
+* Types of pins: Side pins with false gates, top pins with gins
+* Notes:
+   * Side Pins:
+      * CCW tension is eaiest.
+      * Focus on the binding pin moving one click at a time.
+      * The binding pin will feel VERY solid.
+      * Avoid squishy feeling pins.
+      * Pins 1,4,5 are high lift. 3 is low lift (but needs a couple clicks). 2 is medium lift.
+      * High lift means very high.
+      * Setting pins 4 and 5 likes to cause 1 to drop constantly.
+      * 3 likes to drop but should not be lifted very high.
+      * When pins 4 and 5 feel like they've disappeared (pick can go high in the chamber with no resistance), they are likely set.
+      * Pin 1 is seemingly always the last one needing attention before the side is picked.
+      * Pin 1 causes a false set earlier on. Often needs an additional nudge to get to false set or picked sidebar.
 
 # Brava Oval
 * Type: Cam lock
