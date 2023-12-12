@@ -11,7 +11,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [American Lock 5200](#american-lock-5200) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_5200))
 * [American Lock 700](#american-lock-700)
 * [American Lock U.S. Set](#american-lock-us-set)
-* [ASSA Twin 6k](#assa-twin-6k)
+* [ASSA Twin 6000 Gins](#assa-twin-6000-gins)
 * [Brava Oval](#brava-oval)
 * [Brinks 50mm](#brinks-50mm)
 * [CISA PS/45](#cisa-ps45)
@@ -140,27 +140,44 @@ This is home to my personal notes on locks I own and/or have picked.
 * Types of pins: Standard
 * Notes: Challenging keyway
 
-# ASSA Twin 6K
+# ASSA Twin 6000 Gins
+* [My Picking Video - Original](https://youtu.be/olXqgFrCyCE)
+* [My Picking Video - Redo](https://youtu.be/P8FWjfhuVRg)
 * Type: Mortise
-* Picked: No
-* Tension wrench: 
-* Pick(s): Flag for side pins and ?
+* Picked: Yes
+* Tension wrench: Two wrenches taped together that will fill up the gap enough
+* Pick(s): Flag for side pins, Peterson DD .018" for gins phase 1, Jimylongs .019" medium hook to finish gins
 * Tension: Varying
 * Number of pins: 5 side pins, 6 top pins
 * Types of pins: Side pins with false gates, top pins with gins
 * Notes:
+   * Order of operations:
+      * Set top pins (gins) into countermilling.
+      * Set side pins.
+      * Fully set top pins (gins) saving pin 4 for as late as possible.
    * Side Pins:
       * CCW tension is eaiest.
-      * Focus on the binding pin moving one click at a time.
-      * The binding pin will feel VERY solid.
-      * Avoid squishy feeling pins.
-      * Pins 1,4,5 are high lift. 3 is low lift (but needs a couple clicks). 2 is medium lift.
-      * High lift means very high.
-      * Setting pins 4 and 5 likes to cause 1 to drop constantly.
-      * 3 likes to drop but should not be lifted very high.
-      * When pins 4 and 5 feel like they've disappeared (pick can go high in the chamber with no resistance), they are likely set.
-      * Pin 1 is seemingly always the last one needing attention before the side is picked.
-      * Pin 1 causes a false set earlier on. Often needs an additional nudge to get to false set or picked sidebar.
+      * Medium/heavy tension
+      * If pin 4 or 5 aren't holding their position, probably need to redo phase 1 gins.
+      * Pin 4 up 3 clicks
+      * Pin 5 up 3 clicks
+      * Pin 2 up 2 clicks
+      * Pin 1 up 3 clicks
+      * Pin 3 up 1 click
+      * Keep lifting pins 1,4,5 as high as they'll go as you revisit
+      * Only nudge pin 2 or 3 very slightly if they are binding
+   * Gins
+      * Phase 1
+         * Get each pin into counter milling
+         * Some pins made give multiple clicks
+         * Work on it until all pins are loose
+      * Phase 2
+         * Pick order: 5,6,3,4,2,1
+         * Use pin 4 (only non-countermilled chamber) as a reference point. It binds hard.
+         * Make sure you are under the pin properly and pulse pressure against it while VERY slowly letting off tension.
+         * Expect one click for set indicator on each pin.
+         * Pin 4 acts like spool.
+         * Pin 1 should open lock, but 6 has tendency to fall down.
 
 # Brava Oval
 * Type: Cam lock
