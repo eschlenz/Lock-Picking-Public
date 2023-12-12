@@ -166,11 +166,13 @@ This is home to my personal notes on locks I own and/or have picked.
       * Pin 3 up 1 click
       * Keep lifting pins 1,4,5 as high as they'll go as you revisit
       * Only nudge pin 2 or 3 very slightly if they are binding
+      * Will get a deeper false set when picked.
    * Gins
       * Phase 1
          * Get each pin into counter milling
          * Some pins made give multiple clicks
          * Work on it until all pins are loose
+         * May detect the smallest of false sets.
       * Phase 2
          * Pick order: 5,6,3,4,2,1
          * Use pin 4 (only non-countermilled chamber) as a reference point. It binds hard.
