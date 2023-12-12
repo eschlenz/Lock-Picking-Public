@@ -18,6 +18,9 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
   * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
   * Awarded Brown Belt - 11/18/2023
   * ![Brown Belt Approved](brown_belt_approval.png)
+* Red Belt
+  * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
+  * [ASSAK 6000 Gins](https://youtu.be/P8FWjfhuVRg)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
