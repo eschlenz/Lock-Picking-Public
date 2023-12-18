@@ -156,7 +156,7 @@ This is home to my personal notes on locks I own and/or have picked.
       * Set side pins.
       * Fully set top pins (gins) saving pin 4 for as late as possible.
    * Side Pins:
-      * CCW tension is eaiest.
+      * CCW tension is easiest.
       * Medium/heavy tension
       * If pin 4 or 5 aren't holding their position, probably need to redo phase 1 gins.
       * Pin 4 up 3 clicks
