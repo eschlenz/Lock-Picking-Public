@@ -160,6 +160,7 @@ This is home to my personal notes on locks I own and/or have picked.
       * Phase 1
          * Lots of tension
          * Cycle through pins 1,2,4,5 lifting up the binder little by little until it frees up
+         * Also lift ^ the non binders just a tiny amount each time you visit a pin
          * Don't need to touch pin 6 at all
          * Pin 3 might need lifting near the end of phase 1
          * Repeat ^ until one of the following happens suggesting phase
@@ -169,6 +170,7 @@ This is home to my personal notes on locks I own and/or have picked.
          * Check for tiny jiggle on each pin before moving on to the sidebar
          * The false set will deepen (possibly imperceptably) when done with the top
       * Phase 2
+         * Pin 1 is a sneaky binder because it's so high. Check it often.
          * Early on in phase 2 pins 1,2,4 are likely to be the binders
          * Pin 5 starts binding later, followed by pin 3, and lastly pin 6
          * Pin 4 likes to fall down a lot
@@ -176,6 +178,7 @@ This is home to my personal notes on locks I own and/or have picked.
          * Pin 1 is a very high lift
          * Pins 3 and 6 are very low lifts
          * Focus on the pin that is binding the hardest and has ZERO movement
+         * Compare the feeling to other pins if unsure
          * If more than one pin feels like it's the true binder, try nudging all of the other pins to get a little more core movement
          * If you lose the false set, do the same ^
          * Multiple clicks will be had as the barrel moves up through the countermilling
