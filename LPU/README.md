@@ -20,9 +20,13 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
   * ![Brown Belt Approved](brown_belt_approval.png)
 * Red Belt
   * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
-  * [ASSA 6000 Gins](https://youtu.be/P8FWjfhuVRg)
+  * [ASSA Twin 6000 Gins](https://youtu.be/P8FWjfhuVRg)
   * Awarded Red Belt - 12/12/2023
   * ![Red Belt Approval](red_belt_approval.png)
+* Black Belt
+  * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
+  * [ASSA Twin 6000 Gins](https://youtu.be/P8FWjfhuVRg)
+  * [ASSA Twin 6000 Barrels](https://youtu.be/vlOgLHSNWfw?si=0ye73byPKQXdXpno)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
