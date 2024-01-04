@@ -11,6 +11,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [American Lock 5200](#american-lock-5200) ([lockwiki](https://www.lockwiki.com/index.php/American_Lock_5200))
 * [American Lock 700](#american-lock-700)
 * [American Lock U.S. Set](#american-lock-us-set)
+* [ASSA Twin 6000 Barrels](#assa-twin-6000-barrels)
 * [ASSA Twin 6000 Gins](#assa-twin-6000-gins)
 * [Brava Oval](#brava-oval)
 * [Brinks 50mm](#brinks-50mm)
@@ -140,9 +141,65 @@ This is home to my personal notes on locks I own and/or have picked.
 * Types of pins: Standard
 * Notes: Challenging keyway
 
+# ASSA Twin 6000 Barrels
+* [My Picking Video - Original](https://youtu.be/vlOgLHSNWfw?si=0ye73byPKQXdXpno)
+* Type: KIK
+* Picked: Yes
+* Tension wrench: Two wrenches taped together that will fill up the gap enough. Add another tensioner for floating side pins.
+* Pick(s): Flag for side pins, Jimylongs .019" medium/deep hook for barrels
+* Tension: Varying
+* Number of pins: 5 side pins, 6 top pins
+* Types of pins: Side pins with false gates, top pins with barrels
+* Notes:
+   * Order of operations:
+      * Must be CW tension on mine (does not isolate in CCW)
+      * Set barrels into milling
+      * Fully set barrels
+      * Set side pins
+   * Barrels
+      * Phase 1
+         * Lots of tension
+         * Cycle through pins 1,2,4,5 lifting up the binder little by little until it frees up
+         * Don't need to touch pin 6 at all
+         * Pin 3 might need lifting near the end of phase 1
+         * Repeat ^ until one of the following happens suggesting phase
+            * Pin 4 starts binding
+            * Pin 2 starts binding followed by 4
+            * A tiny false set occurs
+         * Check for tiny jiggle on each pin before moving on to the sidebar
+         * The false set will deepen (possibly imperceptably) when done with the top
+      * Phase 2
+         * Early on in phase 2 pins 1,2,4 are likely to be the binders
+         * Pin 5 starts binding later, followed by pin 3, and lastly pin 6
+         * Pin 4 likes to fall down a lot
+         * Pin 2 and 5 also fall down a fair amount but less than 4
+         * Pin 1 is a very high lift
+         * Pins 3 and 6 are very low lifts
+         * Focus on the pin that is binding the hardest and has ZERO movement
+         * If more than one pin feels like it's the true binder, try nudging all of the other pins to get a little more core movement
+         * If you lose the false set, do the same ^
+         * Multiple clicks will be had as the barrel moves up through the countermilling
+         * Just move up one click at a time and find the next binder
+         * Slowly let off tension while bouncing on the binding pin
+         * As tension lets off, and if you're on the right pin, the plug will jostle in the core and movement can be felt in the tensioner
+         * A truly set pin will have a tiny bit of movement and spring-back
+      * Side Pins:
+         * TOK tensioner plus another for true float picking
+         * If side pin 1 or 2 are not binding well, probably not done with the top pins
+         * Pin 1 up 1 clicks
+         * Pin 2 up 2 clicks
+         * Pin 3 up 3 clicks
+         * Pin 4 up 3 clicks while preventing false set from deepening more than a tiny amount
+         * Pin 5 up 2 clicks (pin 4 may fall just a tad)
+         * Pin 4 again if necessary
+         * Pin 5 expect another tiny half click
+         * As long as nothing dropped, start bouncing on pins to ensure they are seated well in their true gates
+         * Pin 4 usually is the last one to need touching
+
 # ASSA Twin 6000 Gins
 * [My Picking Video - Original](https://youtu.be/olXqgFrCyCE)
 * [My Picking Video - Redo](https://youtu.be/P8FWjfhuVRg)
+* [My Deep Dive Sidebar Video](https://youtu.be/_pbsqGAMUdU)
 * Type: Mortise
 * Picked: Yes
 * Tension wrench: Two wrenches taped together that will fill up the gap enough
