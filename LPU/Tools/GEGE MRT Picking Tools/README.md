@@ -9,8 +9,8 @@
 ## About
 This is a set of tools for designed for specifically for GEGE MRT lock. It includes tools for picking the lock,
 training to pick the lock, and key cloning. This set of tools was created as an alternative to the traditional
-approach to picking this lock (piano wire/metal pick + magnet). It's primary purpose is to help one learn to
-pick these locks by allowing the user to precisely and controllable manipulate the rotors within the MRT. It is
+approach to picking this lock (piano wire/metal pick + magnet). Its primary purpose is to help one learn to
+pick these locks by allowing the user to precisely and controllably manipulate the rotors within the MRT. It is
 not, however, a substitute for acquiring the necessary skills to pick this lock in a more traditional manner 
 (my opinion).
 
