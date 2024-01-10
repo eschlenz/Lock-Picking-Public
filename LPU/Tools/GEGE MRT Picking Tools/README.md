@@ -2,6 +2,10 @@
 
 ![Overview Image](images/overview.jpg)
 
+[Printables](https://www.printables.com/@EricS_7387)
+[OnShape CAD](https://cad.onshape.com/documents/ac499c2d59d98c4a10020a70/w/5f0d589d5d86e994a67fbeab/e/93b583c3785718de1a5a295f)
+[YouTube](https://www.youtube.com/watch?v=bCHgC2T6A2U)
+
 ## About
 This is a set of tools for designed for specifically for GEGE MRT lock. It includes tools for picking the lock,
 training to pick the lock, and key cloning. This set of tools was created as an alternative to the traditional
