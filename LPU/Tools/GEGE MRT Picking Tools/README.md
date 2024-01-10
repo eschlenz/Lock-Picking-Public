@@ -51,5 +51,9 @@ also understand exactly how it works.
 
 The tensioner: ![Tensioner](images/tensioner.jpg)
 The pick: ![Pick](images/pick.jpg)
+
+## Note
+
+The thick discs are intended to be used with the clone key. The thinner discs are intended to be used in the tensioner tool (to save/lock in rotor positions). Trying to use the thick discs in the tensioner will obstruct the pick, so just use the thin ones for this purpose.
 The clone key: ![Clone Key](images/clone_key.jpg)
 The lock housing/bracket with viewport: ![Bracket](images/bracket.jpg)
