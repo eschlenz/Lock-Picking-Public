@@ -34,6 +34,17 @@ also understand exactly how it works.
   * Flat magnet or upright
 * Lock housing/bracket with viewport to watch rotors while you manipulate them (for training)
 
+## Printing
+* Whatever material you prefer (PLA is fine)
+* No supports necessary
+* Print in .1mm layer height
+* 100% infill
+* Enable "Detect Thin Walls"
+* The picks are intended to be oriented with the grip pattern facing down (guide nubs facing up)
+* The tensioner should be oriented with the text pointed down
+* The disc inserts should be oriented with the hole for the magnet facing down
+* The bracket (lock housing with viewport) should be oriented with the screw holes facing down
+
 The tensioner: ![Tensioner](images/tensioner.jpg)
 The pick: ![Pick](images/pick.jpg)
 The clone key: ![Clone Key](images/clone_key.jpg)
