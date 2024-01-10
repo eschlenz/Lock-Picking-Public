@@ -1,5 +1,7 @@
 # GEGE MRT Picking/Training/Key Cloning Tools
 
+![Overview Image](images/overview.jpg)
+
 ## About
 This is a set of tools for designed for specifically for GEGE MRT lock. It includes tools for picking the lock,
 training to pick the lock, and key cloning. This set of tools was created as an alternative to the traditional
@@ -33,3 +35,6 @@ also understand exactly how it works.
 * Lock housing/bracket with viewport to watch rotors while you manipulate them (for training)
 
 The tensioner: ![Tensioner](images/tensioner.jpg)
+The pick: ![Pick](images/pick.jpg)
+The clone key: ![Clone Key](images/clone_key.jpg)
+The lock housing/bracket with viewport: ![Bracket](images/bracket.jpg)
