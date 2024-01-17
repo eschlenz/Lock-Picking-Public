@@ -1,6 +1,6 @@
 # ASSA Pin Models
 
-[!Printed Pins](images/printed_pins.png)
+![Printed Pins](images/printed_pins.png)
 
 ASSA security pins recreated in CAD and exported as STLs. Models included are:
 
