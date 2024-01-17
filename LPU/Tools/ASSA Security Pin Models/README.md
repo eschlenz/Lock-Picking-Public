@@ -28,7 +28,7 @@ parts as seen in the example file name because they did not apply or were not re
 File name parts explained:
 
 1. 'gin_driver' - The type of pin.
-2. `a`, 'b', 'c', 'd' - Corresponds to the real world size some pins come in from factory. If absent, there are no variants of factory sizes supplied.
+2. `a`, `b`, `c`, `d` - Corresponds to the real world size some pins come in from factory. If absent, there are no variants of factory sizes supplied.
 3. `Nx` - The scaled up multiplier.
 4. `bis` - If present in the filename, this stands for "built in supports".
 
