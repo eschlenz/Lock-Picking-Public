@@ -13,6 +13,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [American Lock U.S. Set](#american-lock-us-set)
 * [ASSA Twin 6000 Barrels](#assa-twin-6000-barrels)
 * [ASSA Twin 6000 Gins](#assa-twin-6000-gins)
+* [ASSA Twin V10 Gins](#assa-twin-v10-gins)
 * [Brava Oval](#brava-oval)
 * [Brinks 50mm](#brinks-50mm)
 * [CISA PS/45](#cisa-ps45)
@@ -240,6 +241,42 @@ This is home to my personal notes on locks I own and/or have picked.
          * Expect one click for set indicator on each pin.
          * Pin 4 acts like spool.
          * Pin 1 should open lock, but 6 has tendency to fall down.
+
+# ASSA Twin V10 Gins
+* [My Picking Video - Original](https://youtu.be/negWjK7Qj6Y?si=43621XHEXKbSte6X)
+* Type: Mortise
+* Picked: Yes
+* Tension wrench: Custom wrench ground down to fit TOK perfectly, modified Southord flag, Law Lock medium hook, SSDEV .015" deep hook
+* Pick(s): Flag for side pins, Law Lock medium hook for the majority of the top pins, SSDEV for final setting of the 6th pin
+* Tension: Varying
+* Number of pins: 5 side pins, 6 top pins
+* Types of pins: Side pins with false gates, top pins with gins
+* Notes:
+   * Order of operations:
+      * Set top pins (gins) into countermilling.
+      * Set side pins.
+      * Fully set top pins (gins) saving pin 4 for as late as possible.
+   * Side Pins:
+      * CCW tension is easiest.
+      * Medium/heavy tension
+      * Pin 2 up 2 clicks
+      * Pin 3 up 2 clicks
+      * Pin 4 up 2 clicks
+      * Pin 2 up all the way
+      * Pin 3 up all the way
+      * Pin 4 up all the way
+      * Pin 5 up 1.5 clicks
+      * Pin 1 up 1 click
+      * Pin 1, 5, or 2 are usually what holds you back if sidebar isn't set after this sequence
+   * Gins
+      * Phase 1
+         * Get each pin into counter milling
+         * Pick order: 3,2,1,4,6
+         * Pin 5 doesn't need to be touched, possibly because it's already in the milling or because lifting 6 gets it there
+      * Phase 2
+         * Pick order: 5,2,1,4,6
+         * Pin 3 is a standard pin so no need to do anything
+         * Pin 6 is difficult to identify and needs to be lifted high by the SSDEV deep hook. Find it by going to the back of the lock and feeling your way forward, or use pin 5 (very low pin) as a reference.
 
 # Brava Oval
 * Type: Cam lock
