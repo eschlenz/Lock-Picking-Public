@@ -27,6 +27,8 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
   * [EVVA ICS](https://www.youtube.com/watch?v=zhpDa8Lffy0)
   * [ASSA Twin 6000 Gins](https://youtu.be/P8FWjfhuVRg)
   * [ASSA Twin 6000 Barrels](https://youtu.be/vlOgLHSNWfw?si=0ye73byPKQXdXpno)
+  * [ASSA Twin V10 Gins - SPEED PICK](https://youtu.be/negWjK7Qj6Y?si=KPskRDSz3guDvBFg)
+  * [Mul-T-Lock MT5+](https://youtu.be/Kn4lHAX0o24?si=9J4_eojo8nivb_3_)
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
