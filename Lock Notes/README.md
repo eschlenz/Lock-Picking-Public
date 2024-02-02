@@ -38,6 +38,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Medeco KeyMark Mortise](#medeco-keymark-mortise)
 * [Medeco KeyMark SFIC](#medeco-keymark-sfic)
 * [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
+* [Mul-T-Lock MT5+](#mul-t-lock-mt5+)
 * [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Paclock 2173A](#paclock-2173a)
@@ -246,8 +247,8 @@ This is home to my personal notes on locks I own and/or have picked.
 * [My Picking Video - Original](https://youtu.be/negWjK7Qj6Y?si=43621XHEXKbSte6X)
 * Type: Mortise
 * Picked: Yes
-* Tension wrench: Custom wrench ground down to fit TOK perfectly, modified Southord flag, Law Lock medium hook, SSDEV .015" deep hook
-* Pick(s): Flag for side pins, Law Lock medium hook for the majority of the top pins, SSDEV for final setting of the 6th pin
+* Tension wrench: Custom wrench ground down to fit TOK perfect
+* Pick(s): Flag for side pins, Law Lock medium hook for the majority of the top pins, SSDEV .015" deep hook for final setting of the 6th pin
 * Tension: Varying
 * Number of pins: 5 side pins, 6 top pins
 * Types of pins: Side pins with false gates, top pins with gins
@@ -597,6 +598,44 @@ This is home to my personal notes on locks I own and/or have picked.
   * One tee pin and one tapered spool found in my lock
   * Tee pin gives to clicks before set
   * Tapered pin gives counter rotation before being set 
+
+# Mul-T-Lock MT5+
+* [My picking video](https://youtu.be/Kn4lHAX0o24?si=9J4_eojo8nivb_3_)
+* Type: Euro
+* Picked: Yes
+* Tension wrench: Left side Z wrench with sides ground to prevent catching on the lock housing
+* Pick(s): .015" Peterson Gem for alpha pin, MP04 for pins, MP10 for sliders
+* Tension: Varying tension
+* Number of pins: 5 + alpha pin, 5 sliders
+* Types of pins: Pin in pin, Sliders
+* Notes:
+  * CCW tension
+  * Order of operations
+    * No tension, move all sliders to the far right and rake the pins
+    * Set alpha pin by sliding the Peterson Gem towards the back. You're feeling for a little bump. When you reach the bump, let off tension as you slide the pick forward. You should get a notable click, otherwise repeat the previous steps and try again.
+    * Start getting clicks out of outer/inner pins (see below) until you get a minor false set
+    * Set sliders
+    * Finish setting pins
+ * Pins
+   * Alpha pin first
+   * Pin 2 outer 1 click
+   * Pin 3 outer 1 click
+   * Pin 1 outer 1 click
+   * Pin 2 (outer/inner?) 1 click
+   * Pin 3 (outer/inner?) 1 click. (Doesn't always happen).
+   * Pin 4 outer? tiny click. If no click, the previous steps aren't done properly.
+   * Pin 5 tiny click.
+   * Expect a minor false set soon. May need to jostle pins until it happens. Seems like any pin can be the one that gives the false set eventually.
+   * After setting sliders, keep setting pins. Just feel for binders and try to get clicks out of them. Eventually you should get a deeper false set meaning just inners are left.
+   * Inner pins are easy and give tiny clicks.
+   * Remember, pin 1 has an inner pin that sits higher than the outer pin.
+* Sliders
+   * Slider positions: 1 - far left, 2 - far right, 3 - mid left, 4 - mid left, 5 - far right
+   * With your flag rest it pointing down flush against the right wall. Move forward while keeping CCW tension on the pick until you drop into the chamber.
+   * DO NOT MOVE SLIDERS 2 OR 5. They are already in the correct position on the far right.
+   * Set slider 1 first by letting off tension and trying to pick it. It needs to be as far left as it can go.
+   * Set slider 3 next, but it shouldn't move as far left as slider 1
+   * Set slider 4 next, but it shouldn't move as far left as slider 1
 
 # Paclock 100A
 * Type: Padlock
