@@ -38,7 +38,7 @@ This is home to my personal notes on locks I own and/or have picked.
 * [Medeco KeyMark Mortise](#medeco-keymark-mortise)
 * [Medeco KeyMark SFIC](#medeco-keymark-sfic)
 * [Medeco M3 Mortise](#medeco-m3-mortise) ([lockwiki](https://www.lockwiki.com/index.php/Medeco_M3))
-* [Mul-T-Lock MT5+](#mul-t-lock-mt5+)
+* [Mul-T-Lock MT5+](#mul-t-lock-mt5)
 * [Paclock 100A](#paclock-100a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_100A))
 * [Paclock 200A](#paclock-200a) ([lockwiki](https://www.lockwiki.com/index.php/PACLOCK_200A))
 * [Paclock 2173A](#paclock-2173a)
