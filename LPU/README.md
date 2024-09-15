@@ -1,6 +1,8 @@
 # About
 This is my home for my documentation related to [LPU (Lock Pickers United)](https://www.reddit.com/r/lockpicking/). I'm using this as a central repository for resources I need to share as a member of the LPU.
 
+As of 9/15/2024, I am now a black belt lockpicker in the eyes of the Lock Pickers United community. Thank you!
+
 # Belt Request Videos
 * Green Belt
   * [Medeco Duracam](https://www.youtube.com/watch?v=23MHaHG4b7k)
@@ -31,6 +33,8 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
   * [Mul-T-Lock MT5+](https://youtu.be/Kn4lHAX0o24?si=9J4_eojo8nivb_3_)
   * Requested Black Belt - 9/7/2024
     * ![BB Request](bb_request_merged.png)
+  * Awarded Black Belt - 9/15/2024
+    * ![Awarded BB](bb_awarded.png) 
 
 # Challenge Locks
 * My first challenge lock creation: ["Delta #1"](DELTA_1)
