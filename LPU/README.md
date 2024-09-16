@@ -3,6 +3,8 @@ This is my home for my documentation related to [LPU (Lock Pickers United)](http
 
 As of 9/15/2024, I am now a black belt lockpicker in the eyes of the Lock Pickers United community. Thank you!
 
+![BB Certificate](eschlenz_bb_award.png) 
+
 # Belt Request Videos
 * Green Belt
   * [Medeco Duracam](https://www.youtube.com/watch?v=23MHaHG4b7k)
